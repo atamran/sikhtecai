@@ -37,9 +37,11 @@ color:#4E47FF;
 .services .left {
     max-width: 500;
 }
-.services .images {
-    max-width: 300px;
-   border-radius: 20px;
+ .images {
+    max-width: 200px;
+   border-radius: 10px;
+   border-radius: none;
+   padding: 40px 20px;
 }
 .stats {
     text-align: center;
@@ -74,7 +76,7 @@ color:#4E47FF;
 }
 .contact { 
     display: flex;
-    padding: 60px 20px;
+    padding: 0px 20px 40px 0;
     text-align: center;
 
 }
@@ -98,9 +100,9 @@ color:#4E47FF;
     border-radius: 5px;
     cursor: pointer;
 }
-.contact h2 {
 
-}
+
+
 .footer {
     background: #e0e0e0;
     padding: 40px 20px;
